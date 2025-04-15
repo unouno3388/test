@@ -1,1 +1,0 @@
-public class SkillCommand implements Command { public SkillCommand(String name) {} public void execute(Player p, GameContext c) {} }
